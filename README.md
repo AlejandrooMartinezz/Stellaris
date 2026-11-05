@@ -14,8 +14,7 @@
 ---
 
 ## 📸 Vista Previa
-![Vista previa de Stellaris]( <img width="1917" height="940" alt="VistaPrevia" src="https://github.com/user-attachments/assets/d14f5dd4-358b-4b9a-8ba9-0377244429c4" />
-)
+<img width="1917" height="940" alt="image" src="https://github.com/user-attachments/assets/1cd6e07a-074a-40c7-a5e2-789a95530c31" />
 
 ## 💡 Sobre el Proyecto
 
